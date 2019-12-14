@@ -5,5 +5,3 @@ def reverse_each_word(sentence)
   end 
   new_sentence
 end
-
-reverse_each_word("Hello there")
